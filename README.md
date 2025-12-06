@@ -5,7 +5,6 @@ ministradas pelo professor André Luís de Medeiros Santos.
 
 ## Paradigma de programação funcional
 
-Paradigma de programação onde
 - Programas consistem em definições de **dados** e **funções**.
 - Execução de um programa = Avaliação de expressões
 - Funções **não tem efeitos colaterais** e são valores de **primeira oredem**
